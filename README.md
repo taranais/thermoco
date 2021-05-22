@@ -4,6 +4,10 @@ Edit on .env value of "REACT_APP_API_ENDPOINT" to desired API endpoint
 
 Only loggin and retive user data has been done so far.
 
+## Install
+
+### `npm install
+
 ## Run
 
 ### `npm start`
